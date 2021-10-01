@@ -5,9 +5,10 @@ exercises: 0
 questions:
 - "Key question (FIXME)"
 objectives:
-- "First learning objective. (FIXME)"
+-  learning objective. (FIXME)"
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+-  key point. Brief Answer to questions. (FIXME)"
+- "Second key point. Brief Answer to questions. (FIXME)"
 ---
 FIXME
 
